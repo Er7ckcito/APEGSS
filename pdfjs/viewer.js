@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "https://drive.google.com/file/d/1fCxG7ZS9tHw1Lj8pz3Pe3ZQ9WOhsdQLy/view?usp=sharing";
+var DEFAULT_URL =  "http://www.ptolomeo.unam.mx:8080/xmlui/bitstream/handle/132.248.52.100/14242/CUADERNO%20DE%20EJERCICIOS%20DE%20QUÍMICA%20GENERAL.pdf?sequence=1&isAllowed=y";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
