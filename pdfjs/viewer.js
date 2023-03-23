@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "http://www.ptolomeo.unam.mx:8080/xmlui/bitstream/handle/132.248.52.100/14242/CUADERNO%20DE%20EJERCICIOS%20DE%20QUÍMICA%20GENERAL.pdf?sequence=1&isAllowed=y";
+var DEFAULT_URL =  "APEG Mining Consulting-Version 1(22-03-23).pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
