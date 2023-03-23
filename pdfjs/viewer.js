@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "compressed.tracemonkey-pldi-09.pdf";
+var DEFAULT_URL =  "https://drive.google.com/file/d/1fCxG7ZS9tHw1Lj8pz3Pe3ZQ9WOhsdQLy/view?usp=sharing";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
